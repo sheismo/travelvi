@@ -374,7 +374,8 @@ section{
 
     .col1{
         width: 49%;
-        height: 400px;
+        height: 410px;
+        max-height: 420px;
     }
 
     .col1{
